@@ -1,5 +1,5 @@
 # Survival Shooter Game
-Repository for game made with Survival Shooter Kit from Unity and VRTK.
+Repository for game made with Survival Shooter Kit from Unity and VRTK. https://youtu.be/Y84d7Mm3n0g
 
 Survival Shooter Tutorial
 https://unity3d.com/de/learn/tutorials/s/survival-shooter-tutorial
