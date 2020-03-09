@@ -13,4 +13,4 @@ Unity 2018.2.21f1
 
 Apk was built for Oculus Quest
 
-SideQuest Link: https://xpan.cc/a-239
+SideQuest Link: https://sdq.st/a-239
